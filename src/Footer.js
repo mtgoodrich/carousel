@@ -3,12 +3,10 @@ import "./Footer.scss";
 
 const Footer = () => {
   return (
-    <footer class="footer">
-      <nav class="footer__nav">
+    <footer className="footer">
+      <nav className="footer__nav">
         <ul>
-          <li>
-            <copyright>&copy; Aut-19 Company, Inc.</copyright>
-          </li>
+          <li>&copy; Aut-19 Company, Inc.</li>
           <li>
             <a href="#policy">Privacy Policy</a>
           </li>

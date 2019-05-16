@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+View this wireframe at: https://mtgoodrich.github.io/carousel/
+
 ## Available Scripts
 
 In the project directory, you can run:
