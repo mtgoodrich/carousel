@@ -15,7 +15,6 @@ const Footer = () => {
           </li>
         </ul>
       </nav>
-
       <a href="#top" className="footer__top-link">
         Back to top
       </a>
